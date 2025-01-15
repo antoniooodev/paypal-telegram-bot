@@ -1,0 +1,8 @@
+paypal_bot/
+
+*.pyc
+__pycache__/
+
+*.log
+
+bot/config.py
